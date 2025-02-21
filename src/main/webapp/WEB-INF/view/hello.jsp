@@ -7,7 +7,7 @@
 </head>
 
 <body>
-
+    Hello From JSP
 </body>
 
 </html>
